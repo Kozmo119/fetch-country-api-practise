@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(164, 217, 224); 
+    text-align: center; 
+    position: relative;
+	transform: 	translateY(30px)
+    
+}
+
+
+
+.search_bar {
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 20px;
+    width: 20%
+    
+}
+
